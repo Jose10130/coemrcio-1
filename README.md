@@ -1,11 +1,7 @@
 # Ecommerce: grupo_4
 
 Integrantes:
-*Barrios, Samuel.
-*Castillo, Gaston.
-*Cotelo, Matias.
-*Maciel, Lucas.
-*Suarez, Mauro.
+
 
 ## Quantum PC
 
