@@ -3,8 +3,8 @@
 # Hacer más
 *trabajar un poco mas en las estructura reforsar 
 # Continuar haciendo
-*Mantener la comunicacion con el equipo para un mejor desempeño
-*Continuar con la predisposicion a la hora de responder dudas o consultas
+*Mantener la el tiempo dedicado a este como al siempre limpio 
+*continuar mejorando el proyecto 
 # Comenzar a hacer
  el sprint 6 completo con urgencia 
 
