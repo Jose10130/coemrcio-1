@@ -64,21 +64,27 @@ color: red;
 }
 
 .user-actions #users-button {
+  position: relative;
+  
   background-color: hsl(189.57deg 56.1% 24.12%);
   color: white;
-  padding: 8px 15px;
+  font-size: 14px;
+  padding: 5px 7px;
   border: 2px; 
-  border-radius: 5px;
+  border-radius: 100px;
   margin-right: 10px;
   cursor: pointer;
+}
+.user-actions h3 {
+  font-size: 15px;
 }
 
 .user-actions #shoppings-button{
   background-color: hsl(189.57deg 56.1% 24.12%);
   color: white;
-  padding: 8px 15px;
+  padding: 5px 7px;
   border: 2px; 
-  border-radius: 5px;
+  border-radius: 100px;
   margin-right: 10px;
   cursor: pointer;
 }
